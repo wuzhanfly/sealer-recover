@@ -148,9 +148,6 @@ sealer-recover --miner=f01000 \
 ### Contributing
 欢迎PR、错误报告和问题建议！对于重大更改，请先在issues中提出问题，以便讨论兼容性和收益。
 
-### Other
-- [FILFrog](https://www.froghub.io/)
-- [Lotus CloudC2](https://github.com/froghub-io/lotus-cloudc2)
 
 ## License
 
